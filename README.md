@@ -1,1 +1,1 @@
-# Daraz_phones Scrapy project with API
+# Daraz_phones Scraping project with API.
